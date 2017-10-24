@@ -1,4 +1,2 @@
 function shout(string) {
 }
-
-
